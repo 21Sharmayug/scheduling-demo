@@ -1,4 +1,5 @@
 {
+  "manifest_version": 1,
   "name": "Scheduling Demo",
   "short_name": "Scheduler",
   "start_url": "/",

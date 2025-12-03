@@ -26,7 +26,8 @@ export default function RootLayout({
     <html lang="en">
       <head>
       
-        <link rel="manifest" href="/manifest.json" />
+        <link rel="manifest" href="/manifest.webmanifest" />
+
 
      
         <link rel="icon" href="/icon-192.png" />
