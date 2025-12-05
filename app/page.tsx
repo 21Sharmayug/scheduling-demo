@@ -93,11 +93,11 @@ export default function Home() {
             onChange={(e) => setTime(e.target.value)}
             className="w-full p-3 border rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none"
           >
-            <option>09:00 AM</option>
-            <option>10:00 AM</option>
-            <option>11:00 AM</option>
-            <option>02:00 PM</option>
-            <option>04:00 PM</option>
+            <option>09:00 AM - 10:00 AM</option>
+            <option>10:00 AM - 11:00 AM</option>
+            <option>11:00 AM - 12:00 PM</option>
+            <option>02:00 PM - 02:00 PM</option>
+            <option>04:00 PM - 05:00 PM</option>
           </select>
 
           <button
